@@ -51,7 +51,7 @@ namespace OracleConnectTest
         public void UpdateForm()
         {
             label1.Text = $"Id: {_client.Id}";
-            label2.Text = $"Имя: {_client.FirstName}";
+            label2.Text = $"Name: {_client.FirstName}";
             
         }
     }
