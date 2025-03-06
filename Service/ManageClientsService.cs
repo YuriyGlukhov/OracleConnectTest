@@ -33,6 +33,7 @@ namespace OracleConnectTest.Service
                 {
                     try
                     {
+                        cmd.BindByName  = true;
                         cmd.Parameters.Add(new OracleParameter(":id", OracleDbType.Int32)).Value = clientDTO.Id;
                         cmd.Parameters.Add(new OracleParameter(":idType", OracleDbType.Int32)).Value = clientDTO.IdType;
                         cmd.Parameters.Add(new OracleParameter(":indfu", OracleDbType.Varchar2)).Value = "F";
