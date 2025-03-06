@@ -9,8 +9,8 @@ namespace OracleConnectTest.Model
     public class ClientDTO
     {
         public int Id {  get; set; }
-        public string FirstName { get; set; }
-        public string Phone {  get; set; }
+        public string? FirstName { get; set; }
+        public string? Phone {  get; set; }
         public int IdType { get; set; }
     }
 }

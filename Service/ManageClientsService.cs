@@ -73,9 +73,9 @@ namespace OracleConnectTest.Service
                     while (reader.Read())
                     {
                         int id = Convert.ToInt32(reader["ID"]);
-                        string firstName = reader["NAME"].ToString();
+                        string? firstName = reader["NAME"].ToString();
                         
-                        string phone = reader["TELEPHONE"].ToString();
+                        string? phone = reader["TELEPHONE"].ToString();
 
 
                         ClientDTO client = new ClientDTO
