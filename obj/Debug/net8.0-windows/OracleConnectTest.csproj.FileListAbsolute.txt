@@ -18,9 +18,9 @@ C:\Users\jiejo\source\repos\OracleConnectTest\OracleConnectTest\obj\Debug\net8.0
 C:\Users\jiejo\source\repos\OracleConnectTest\OracleConnectTest\obj\Debug\net8.0-windows\OracleConnectTest.genruntimeconfig.cache
 C:\Users\jiejo\source\repos\OracleConnectTest\OracleConnectTest\obj\Debug\net8.0-windows\ref\OracleConnectTest.dll
 C:\Users\jiejo\source\repos\OracleConnectTest\OracleConnectTest\bin\Debug\net8.0-windows\Oracle.ManagedDataAccess.dll
-C:\Users\jiejo\source\repos\OracleConnectTest\OracleConnectTest\bin\Debug\net8.0-windows\System.Text.Json.dll
 C:\Users\jiejo\source\repos\OracleConnectTest\OracleConnectTest\bin\Debug\net8.0-windows\System.DirectoryServices.Protocols.dll
 C:\Users\jiejo\source\repos\OracleConnectTest\OracleConnectTest\bin\Debug\net8.0-windows\runtimes\linux\lib\net8.0\System.DirectoryServices.Protocols.dll
 C:\Users\jiejo\source\repos\OracleConnectTest\OracleConnectTest\bin\Debug\net8.0-windows\runtimes\osx\lib\net8.0\System.DirectoryServices.Protocols.dll
 C:\Users\jiejo\source\repos\OracleConnectTest\OracleConnectTest\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.DirectoryServices.Protocols.dll
 C:\Users\jiejo\source\repos\OracleConnectTest\OracleConnectTest\obj\Debug\net8.0-windows\OracleConnectTest.DeleteForm.resources
+C:\Users\jiejo\source\repos\OracleConnectTest\OracleConnectTest\obj\Debug\net8.0-windows\OracleConnectTest.sourcelink.json

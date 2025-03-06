@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("OracleConnectTest")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+70d60dbb9ab902a9cf2d5f9c0d24e98fd0cb892b")]
 [assembly: System.Reflection.AssemblyProductAttribute("OracleConnectTest")]
 [assembly: System.Reflection.AssemblyTitleAttribute("OracleConnectTest")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
